@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Политика конфиденциальности — ОВР</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <span class="logo-icon">🎓</span>
+                <span class="logo-text">ОВР</span>
+            </div>
+            <nav class="nav">
+                <a href="index.html">← На главную</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <h1>🔒 Политика конфиденциальности</h1>
+            <p>Бот «ОВР — Образовательный Виртуальный Репетитор» (@ovr_repetitor_bot).</p>
+
+            <h2>1. Какие данные собираются</h2>
+            <ul>
+                <li>Имя (по желанию)</li>
+                <li>Класс</li>
+                <li>Предмет и тема</li>
+                <li>История сообщений (для контекста)</li>
+            </ul>
+
+            <h2>2. Как используются данные</h2>
+            <ul>
+                <li>Только для обучения</li>
+                <li>Не передаются третьим лицам</li>
+                <li>Не используются для рекламы</li>
+            </ul>
+
+            <h2>3. Что НЕ собирается</h2>
+            <ul>
+                <li>Паспортные данные</li>
+                <li>Адрес</li>
+                <li>Телефон</li>
+                <li>СНИЛС</li>
+                <li>Платёжные данные</li>
+            </ul>
+
+            <h2>4. Хранение</h2>
+            <ul>
+                <li>Данные не хранятся на сервере постоянно</li>
+                <li>Бот не ведёт базу данных пользователей</li>
+                <li>История доступна только в текущем диалоге</li>
+            </ul>
+
+            <h2>5. Возраст</h2>
+            <p>Бот для школьников 5–11 классов. Рекомендуется согласие родителей.</p>
+
+            <h2>6. Контакты</h2>
+            <p>Автор: Educational Production</p>
+            <p>Сайт: <a href="https://nitka2341567867-glitch.github.io/ovr-site/">nitka2341567867-glitch.github.io/ovr-site/</a></p>
+
+            <h2>7. Согласие</h2>
+            <p>Используя бота, вы соглашаетесь с этой политикой.</p>
+
+            <p>© 2026 Educational Production</p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>© 2026 Educational Production. ОВР — Образовательный Виртуальный Репетитор.</p>
+        </div>
+    </footer>
+</body>
+</html>
