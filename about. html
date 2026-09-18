@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>О проекте — ОВР</title>
     <meta name="description" content="ОВР — образовательный проект для школьников 5–11 классов. Кью — ИИ-репетитор, который помогает понимать, а не зазубривать.">
-    <meta name="keywords" content="ОВР, Кью, репетитор, о проекте, школа, ОГЭ, ЕГЭ, ВПР">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -29,13 +28,13 @@
     <section class="section">
         <div class="container">
             <h1>🎓 О проекте ОВР</h1>
-            <p>ОВР — Образовательный Виртуальный Репетитор. Проект создан для школьников 5–11 классов, которые хотят понимать, а не зазубривать.</p>
+            <p>ОВР — Образовательный Виртуальный Репетитор для школьников 5–11 классов. Проект помогает понимать, а не зазубривать.</p>
 
-            <h2>👤 Автор</h2>
-            <p>Проект создан <strong>Educational Production</p>
+            <h2>👥 Автор проекта</h2>
+            <p>Проект создан группой <strong>Educational Production</strong>.</p>
 
             <h2>🐱 Кто такой Кью</h2>
-            <p>Кью (Q) — ИИ-наставник. Имя происходит от английского «Question» — вопрос. Кью не даёт готовых ответов, а ведёт ученика к решению через наводящие вопросы.</p>
+            <p>Кью (Q) — ИИ-наставник. Не даёт готовых ответов, ведёт через вопросы. Имя происходит от английского «Question» — вопрос.</p>
 
             <h2>🎯 Миссия</h2>
             <p>Сделать качественное образование доступным каждому школьнику — независимо от города, школы и возможностей родителей.</p>
@@ -59,14 +58,13 @@
             </ul>
 
             <h2>🤖 Попробовать бота</h2>
-            <p>Открой Telegram-бота и начни занятие бесплатно:</p>
-            <p><a href="https://t.me/ovr_repetitor_bot" class="btn btn-primary" target="_blank">🎓 Открыть бота</a></p>
+            <p><a href="https://t.me/ovr_repetitor_bot" class="btn btn-primary" target="_blank">🎓 Открыть бота в Telegram</a></p>
 
             <h2>📅 Версия</h2>
             <p>5.8 GLOBAL FIX | 2026</p>
 
             <h2>© Автор</h2>
-            <p>Educational Production</p>
+            <p><strong>Educational Production</strong></p>
         </div>
     </section>
 
