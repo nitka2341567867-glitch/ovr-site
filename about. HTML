@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>О проекте — ОВР</title>
+    <meta name="description" content="ОВР — образовательный проект для школьников 5–11 классов. Кью — ИИ-репетитор, который помогает понимать, а не зазубривать.">
+    <meta name="keywords" content="ОВР, Кью, репетитор, о проекте, школа, ОГЭ, ЕГЭ, ВПР">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <span class="logo-icon">🎓</span>
+                <span class="logo-text">ОВР</span>
+            </div>
+            <nav class="nav">
+                <a href="index.html">Главная</a>
+                <a href="about.html">О проекте</a>
+                <a href="privacy.html">Политика</a>
+                <a href="https://t.me/ovr_repetitor_bot" class="btn-telegram" target="_blank">🤖 Открыть бота</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <h1>🎓 О проекте ОВР</h1>
+            <p>ОВР — Образовательный Виртуальный Репетитор. Проект создан для школьников 5–11 классов, которые хотят понимать, а не зазубривать.</p>
+
+            <h2>👤 Автор</h2>
+            <p>Проект создан <strong>Educational Production</p>
+
+            <h2>🐱 Кто такой Кью</h2>
+            <p>Кью (Q) — ИИ-наставник. Имя происходит от английского «Question» — вопрос. Кью не даёт готовых ответов, а ведёт ученика к решению через наводящие вопросы.</p>
+
+            <h2>🎯 Миссия</h2>
+            <p>Сделать качественное образование доступным каждому школьнику — независимо от города, школы и возможностей родителей.</p>
+
+            <h2>💎 Ценности</h2>
+            <ul>
+                <li>💎 Понимание — важнее зубрёжки</li>
+                <li>💬 Диалог — важнее монолога</li>
+                <li>📈 Прогресс — важнее идеала</li>
+                <li>🔥 Мотивация — важнее принуждения</li>
+            </ul>
+
+            <h2>📚 Что умеет Кью</h2>
+            <ul>
+                <li>Все школьные предметы 5–11 классов</li>
+                <li>Подготовка к ВПР, ОГЭ, ЕГЭ</li>
+                <li>Работа по ФГОС</li>
+                <li>Персональный подход</li>
+                <li>Проверка домашнего задания</li>
+                <li>Очки, уровни, значки</li>
+            </ul>
+
+            <h2>🤖 Попробовать бота</h2>
+            <p>Открой Telegram-бота и начни занятие бесплатно:</p>
+            <p><a href="https://t.me/ovr_repetitor_bot" class="btn btn-primary" target="_blank">🎓 Открыть бота</a></p>
+
+            <h2>📅 Версия</h2>
+            <p>5.8 GLOBAL FIX | 2026</p>
+
+            <h2>© Автор</h2>
+            <p>Educational Production</p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>© 2026 Educational Production. ОВР — Образовательный Виртуальный Репетитор.</p>
+            <p><a href="privacy.html" style="color: #93c5fd;">🔒 Политика конфиденциальности</a></p>
+        </div>
+    </footer>
+
+</body>
+</html>
