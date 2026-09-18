@@ -4,7 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>О проекте — ОВР</title>
+
     <meta name="description" content="ОВР — образовательный проект для школьников 5–11 классов. Кью — ИИ-репетитор, который помогает понимать, а не зазубривать.">
+    <meta name="keywords" content="ОВР, Кью, репетитор, о проекте, школа, ОГЭ, ЕГЭ, ВПР, Educational Production">
+    <meta name="author" content="Educational Production">
+    <meta name="robots" content="index, follow">
+
+    <meta property="og:title" content="О проекте — ОВР">
+    <meta property="og:description" content="ОВР — образовательный проект для школьников 5–11 классов.">
+    <meta property="og:url" content="https://nitka2341567867-glitch.github.io/ovr-site/about.html">
+    <meta property="og:type" content="website">
+
+    <link rel="canonical" href="https://nitka2341567867-glitch.github.io/ovr-site/about.html">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -71,7 +82,8 @@
     <footer class="footer">
         <div class="container">
             <p>© 2026 Educational Production. ОВР — Образовательный Виртуальный Репетитор.</p>
-            <p><a href="privacy.html" style="color: #93c5fd;">🔒 Политика конфиденциальности</a></p>
+            <p>Ассистент: Кью (Q) 🎓 «Кью задаёт вопросы — ты находишь ответы»</p>
+            <p><a href="index.html" style="color: #93c5fd;">Главная</a> · <a href="privacy.html" style="color: #93c5fd;">🔒 Политика конфиденциальности</a></p>
         </div>
     </footer>
 
