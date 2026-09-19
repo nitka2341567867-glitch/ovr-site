@@ -422,3 +422,20 @@ body {
     padding: 10px 24px;
     font-size: 14px;
 }
+
+.instruction-image {
+    background: #f8fafc;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.instruction-image img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 12px;
+}
