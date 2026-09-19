@@ -4,17 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>О проекте — ОВР</title>
-
-    <meta name="description" content="ОВР — образовательный проект для школьников 5–11 классов. Кью — ИИ-репетитор, который помогает понимать, а не зазубривать.">
-    <meta name="keywords" content="ОВР, Кью, репетитор, о проекте, школа, ОГЭ, ЕГЭ, ВПР, Educational Production">
+    <meta name="description" content="ОВР — образовательный проект для школьников 5–11 классов.">
+    <meta name="keywords" content="ОВР, Кью, репетитор, о проекте">
     <meta name="author" content="Educational Production">
     <meta name="robots" content="index, follow">
-
-    <meta property="og:title" content="О проекте — ОВР">
-    <meta property="og:description" content="ОВР — образовательный проект для школьников 5–11 классов.">
-    <meta property="og:url" content="https://nitka2341567867-glitch.github.io/ovr-site/about.html">
-    <meta property="og:type" content="website">
-
     <link rel="canonical" href="https://nitka2341567867-glitch.github.io/ovr-site/about.html">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="style.css">
@@ -30,7 +23,9 @@
             <nav class="nav">
                 <a href="index.html">Главная</a>
                 <a href="about.html">О проекте</a>
-                <a href="privacy.html">Политика</a>
+                <a href="blog.html">Блог</a>
+                <a href="instructions.html">Инструкция</a>
+                <a href="faq.html">FAQ</a>
                 <a href="https://t.me/ovr_repetitor_bot" class="btn-telegram" target="_blank">🤖 Открыть бота</a>
             </nav>
         </div>
@@ -83,9 +78,9 @@
         <div class="container">
             <p>© 2026 Educational Production. ОВР — Образовательный Виртуальный Репетитор.</p>
             <p>Ассистент: Кью (Q) 🎓 «Кью задаёт вопросы — ты находишь ответы»</p>
-            <p><a href="index.html" style="color: #93c5fd;">Главная</a> · <a href="privacy.html" style="color: #93c5fd;">🔒 Политика конфиденциальности</a></p>
+            <p><a href="index.html" style="color: #93c5fd;">Главная</a> · <a href="blog.html" style="color: #93c5fd;">Блог</a> · <a href="privacy.html" style="color: #93c5fd;">🔒 Политика</a></p>
         </div>
     </footer>
 
 </body>
-</html> 
+</html>
